@@ -1,5 +1,5 @@
 # recon-py
-A simple python script for gathering subdomains for a domain
+Enumerates subdomains related to a domain using passive data sources. recon-py foucuses on using only the high quality data sources for faster enumeration.
 
 **Sources:**
 
