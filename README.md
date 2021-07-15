@@ -3,14 +3,14 @@ A simple python script for gathering subdomains for a domain
 
 **Sources:**
 
--alienvault
--hackertarget
--crt.sh
--virustotal
--bufferoverrun
--threatcorwd
--securitytrails
--certspotter
+1. alienvault
+2. hackertarget
+3. crt.sh
+4. virustotal
+5. bufferoverrun
+6. threatcorwd
+7. securitytrails
+8. certspotter
 
 # Install
 ```
