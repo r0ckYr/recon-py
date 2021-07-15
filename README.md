@@ -4,12 +4,19 @@ A simple python script for gathering subdomains for a domain
 **Sources:**
     
 alienvault
+
 hackertarget
+
 crt.sh
+
 virustotal
+
 bufferoverrun
+
 threatcorwd
+
 securitytrails
+
 certspotter
 
 # Install
@@ -21,6 +28,7 @@ python3 recon.py example.com
 
 # TODO
 **1. Data sources to add**
+```
     passivetotal
     binaryedge
     recon.dev
@@ -38,7 +46,7 @@ python3 recon.py example.com
     facebook
     twitter
     https://ui.ctsearch.entrust.com/ui/ctsearchui --> like crt.sh
-    
+```
 **2. Add user options**
 ```
 -t      threads (default 7), number of data sources to fetch from concurrently
