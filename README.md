@@ -2,27 +2,23 @@
 A simple python script for gathering subdomains for a domain
 
 **Sources:**
-    
-alienvault
-
-hackertarget
-
-crt.sh
-
-virustotal
-
-bufferoverrun
-
-threatcorwd
-
-securitytrails
-
-certspotter
+-alienvault
+-hackertarget
+-crt.sh
+-virustotal
+-bufferoverrun
+-threatcorwd
+-securitytrails
+-certspotter
 
 # Install
 ```
 git clone https://github.com/r0ckYr/recon-py.git
 cd recon-py
+```
+
+# Usage
+```
 python3 recon.py example.com
 ```
 
