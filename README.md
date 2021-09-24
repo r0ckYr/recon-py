@@ -47,7 +47,7 @@ python3 recon.py example.com
 **2. Add user options**
 ```
 -t      threads (default 7), number of data sources to fetch from concurrently
--i      specify input file for root domains`
+-i      specify input file for root domains
 
 read data from stdout
 ```
